@@ -15,6 +15,7 @@ mnist = input_data.read_data_sets("MNIST_data/", one_hot=True)
 learning_rate = 0.001
 training_epochs = 20
 batch_size = 100
+# wedweffswf
 
 
 class Model:
